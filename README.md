@@ -1,5 +1,5 @@
 # Clients Rating 
-<img width="1235" alt="Screen Shot 2021-08-03 at 10 15 11 PM" src="https://user-images.githubusercontent.com/49618856/169833928-32959c5f-a619-4642-849b-87cd9a9f4f16.png">
+<!-- <img width="1235" alt="Screen Shot 2021-08-03 at 10 15 11 PM" src="https://user-images.githubusercontent.com/49618856/169833928-32959c5f-a619-4642-849b-87cd9a9f4f16.png"> -->
 <img width="754" alt="Screen Shot 2021-08-03 at 10 15 20 PM" src="https://user-images.githubusercontent.com/49618856/169833958-602d85ee-e0f3-4dea-a3c5-e630c4e81837.png">
 <img width="744" alt="Screen Shot 2021-08-03 at 10 15 29 PM" src="https://user-images.githubusercontent.com/49618856/169833977-241a1e31-600f-497c-a65e-cf51b4995bef.png">
 <img width="745" alt="Screen Shot 2021-08-03 at 10 15 40 PM" src="https://user-images.githubusercontent.com/49618856/169833991-7a0df2c2-79c0-4338-8486-1876a218ec40.png">
